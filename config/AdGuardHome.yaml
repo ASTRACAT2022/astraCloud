@@ -1,5 +1,5 @@
 http:
-  address: 0.0.0.0:80
+  address: 0.0.0.0:1499
 users:
   - name: admin
     password:
